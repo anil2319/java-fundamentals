@@ -10,6 +10,6 @@ public class StudentData {
         System.out.println(" marks");
         short marks = sc.nextShort();
         System.out.println("roll no" + rollNo);
-        System.out.println("marks " + marks);
+        System.out.println("marks  " + marks);
     }
 }
